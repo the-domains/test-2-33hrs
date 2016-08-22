@@ -1,3 +1,4 @@
+layout_spectrum: 0.8143826995510608
 typography_spectrum: 0.48362344899214804
 color:
   brandStrength: 0.7494986958336085
@@ -5,12 +6,9 @@ color:
   saturation: 0.6932321125641465
   rhythmicContrast: 0.945965580875054
   brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
-layout_spectrum: 0.8143826995510608
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: test 2
-title: this is us
-description: we do what we do
